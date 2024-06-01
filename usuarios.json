@@ -1,0 +1,9 @@
+{
+    "administradores": [
+        {
+            "nombre": "Frank",
+            "contrasena": "10"
+        }
+    ],
+    "empleados": []
+}
